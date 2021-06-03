@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties orders for regulation of the musters</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46504</idno><idno type="EEBO-CITATION">11300551</idno>
+  <idno type="VID">47365</idno>
+  <idno type="EEBO-PROQUEST">2240866739</idno>
+  
+            <idno type="STC">Wing J236</idno>
+            <idno type="STC">ESTC R30364</idno>
+            <idno type="OCLC">11300551</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47365)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1464:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties orders for regulation of the musters</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, Henry Hills, and Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686/7.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Mobilization.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47365:1"/>
+            <head>
+               <figure>
+                  <head>I<seg rend="sup">2</seg> R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>His Majesties ORDERS For Regulation of the MUSTERS.</head>
+            <opener>
+               <signed>James R.</signed>
+            </opener>
+            <p>
+               <hi>FOr the better Regulating the Musters of Our Forces within Our Pay and Enter<g ref="char:EOLhyphen"/>tainment, We have thought fit, and do hereby Declare Our Royal Will and Pleasure, That you and all others whom it may concern, duly observe and execute Our Orders and Directi<g ref="char:EOLhyphen"/>ons following.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">F</seg>Irst, That the several Regiments, Troops, and Companies within Our Pay and En<g ref="char:EOLhyphen"/>tertainment, be Mustered Twelve times in one year at the least, and Muster-Rolls made up and closed at each of the said Musters, in Order to the Pay of Our Forces, <hi>Viz.</hi> On the First days of <hi>January, March, May, July, September</hi> and <hi>November;</hi> As likewise once more within the time of each of the said respective Musters, at your discretion, and at all such other times as you shall think fit; Of all which Musters you are not to
+<pb n="2" facs="tcp:47365:2"/> give notice till late in the Evening before, which you are to do to the Governor or Officer in Chief in the re<g ref="char:EOLhyphen"/>spective Quarters and Garrisons, and to the Chief Offi<g ref="char:EOLhyphen"/>cer of each Regiment, Troop or Company (Our Guards and other Forces Quartered in <hi>London</hi> only excepted, to whom Notice is to be given Twenty four hours before) and upon such Notice of any Muster intended to be made, the Captain of each Troop and Company is to deliver Three Lists or Rolls unto you Alphabetical<g ref="char:EOLhyphen"/>ly written, of the Officers and Soldiers under his Com<g ref="char:EOLhyphen"/>mand; One of which is to be for the Pay-Master Ge<g ref="char:EOLhyphen"/>neral of Our Forces, and another for your Vse; As also a Third for himself as Captain of such Troop of Company; And that he do in like manner deliver a Fourth List unto you, if in Garrison, for the Governor or Commander in Chief: Two of which are to be Signed by Two Commission Officers at the least, and by the Governor or Commander in Chief and Town-Major of such Garrison; The Governors List by Two Commission Officers, the Town-Major and your self; and the Captains List by you only: And Our Gover<g ref="char:EOLhyphen"/>nors and Commanders in Chief and Town-Majors of Our respective Garrisons are hereby Required, upon such Notice given, to be always present at the Musters, that they may acquaint you with any fault they may find; and upon the Musters so to be made, they are to Sign the Rolls aforementioned, and become accounta<g ref="char:EOLhyphen"/>ble for the same to the best of their knowledge.</p>
+            <p n="2">
+               <hi>II.</hi> That none be Mustered whose Arms are not well fixed, and who are not compleatly Armed; <hi>viz.</hi> Each Gen<g ref="char:EOLhyphen"/>tleman of the Four Troops of Our Horse Guards to have a good broad Sword, a Case of Pistols, the Bar<g ref="char:EOLhyphen"/>rels whereof not to be under Fourteen Inches in length, and a short Carabine, the Barrels whereof to be Two Foot seven Inches in length.</p>
+            <p>The Four Troops of Horse Granadiers to have a long Carabine Strap't, the Barrels to be Three Foot two Inches in length; a good Sword a Case of Pistols be<g ref="char:EOLhyphen"/>tween Thirteen and Fourteen Inches long in the Bar<g ref="char:EOLhyphen"/>rel; Cartouch Boxes, Buckets, Bionets and Granado Pouches.</p>
+            <pb n="3" facs="tcp:47365:2"/>
+            <p> The Regiments of Horse to have short Carabines of two Foot seven Inches in length in the Barrel; a good Sword and a Case of Pistols, of betweén thirteén and fourteén Inches length in the Barrel.</p>
+            <p>The Musquetiers of Our Regiments of Foot Guards to have Snaphance Musquets with bright Barrels, of threé Foot eight Inches long the Barrel, with good Swords, Bandiliers and Bionets; And the Pikemen (as also the Pikemen of all other Regiments) is have Pikes sixteén Foot long with good Swords.</p>
+            <p>The Musquetiers of all other Our Regiments of Foot (except Our Regiment of Fusiliers, the Grana<g ref="char:EOLhyphen"/>diers and the Company of Miners) to have Match-Lock and Snaphance Musquets, the Barrels whereof to be threé Foot six Inches long, good Swords and Bandiliers.</p>
+            <p>Our Royal Regiment of Fusiliers to have Snap<g ref="char:EOLhyphen"/>hance Musquets, Strap't, with bright Barrels of threé Foot eight Inches long, with good Swords, Cartouch Boxes and Bionets.</p>
+            <p>All the Foot Granadiers of Our Army both Regi<g ref="char:EOLhyphen"/>mented and Non-Regimented to have long Carabines Strap't, the Barrels whereof to be threé Foot two Inches long; Cartouch Boxes, Bionets, Granado Pouches and Hammer Hatchets.</p>
+            <p>The Company of Miners to have long Carabines, Strap't, the Barrels to be threé Foot two Inches in length, Cartouch Boxes, Bionets extraordinary, Ham<g ref="char:EOLhyphen"/>mer Hatchets.</p>
+            <p>The Dragoons to have Snaphance Musquets, Strap't, with bright Barrels, of threé Foot eight Inches long; Cartouch Boxes, Bionets, Granado Pouches, Buckets and Hammer Hatchets.</p>
+            <p n="3">
+               <hi>III.</hi> That none be allowed upon the Musters, who by loss of Limb or otherwise are unable or unfit for Service, except by Order from Vs.</p>
+            <p n="4">
+               <hi>IV.</hi> That if any Soldier shall appear at the Musters defective in Cloaths, Arms, or Horse, or any Accoutre<g ref="char:EOLhyphen"/>ments, you shall respit the Pay of such Soldier till he be put into a Condition of Service; And if any bor<g ref="char:EOLhyphen"/>row Arms of another to Pass Muster, the Lender, if a Soldier, shall forfeit the value of his Arms, and
+<pb n="4" facs="tcp:47365:3"/> the Borrower shall be severely punished: And if any Soldier shall sell or pawn his Arms, or spoil or break them, except upon actual Service, he shall be punished, and forfeit so much of his Pay as will buy Arms of the like value. And if you do not think any Soldiers fit for Service, or have any other Exceptions against them, you are forthwith to suspend them until the Go<g ref="char:EOLhyphen"/>vernor or Commander in Chief shall be acquainted there<g ref="char:EOLhyphen"/>with.</p>
+            <p n="5">V. That no Commission Officers be Mustered but such as are Commissioned by Vs, Except the Quar<g ref="char:EOLhyphen"/>ter-Masters of Our several Regiments of Horse and Dragoons.</p>
+            <p n="6">VI. That you do not Muster any more Servants then are allowed of by Vs, <hi>viz</hi> For the Captains of Our Horse Guards four Servants each; For the Lieu<g ref="char:EOLhyphen"/>tenants and Cornets of the said Troops two Servants each; For the Quarter-Master one Servant; For the Brigadiers of each Troop one Servant amongst them; For the Lieutenants of the Horse Granadiers two Ser<g ref="char:EOLhyphen"/>vants each and no more; For the Colonels of Our se<g ref="char:EOLhyphen"/>veral Regiments of Horse and Dragoons, six Ser<g ref="char:EOLhyphen"/>vants, as Colonels and Captains; For the Captains of such Regiments three Servants each; For the Lieu<g ref="char:EOLhyphen"/>tenants and Cornets two Servants each; And for the Quarter-Masters one Servant in their respective Troops. For the Colonels of Foot, as Colonels and Ca<g ref="char:EOLhyphen"/>ptains, six Servants each; For the Captains of Foot three Servants each; For the Lieutenants and En<g ref="char:EOLhyphen"/>signs one Servant in their respective Companies; And the Quarter-Master one Servant and no more: Which Servants are not to appear in the Ranks, but to be produced Effective Men, and placed upon the Rolls as Servants to the respective. Officers abovementioned. And for the better Distribution of such Servants within the several Troops and Companies of each Re<g ref="char:EOLhyphen"/>giment, Our Pleasure is, That one of the six Ser<g ref="char:EOLhyphen"/>vants allowed unto the Colonel be Mustered within his respective Troop or Company, and the five other Servants one within each of the five youngest Troops or Companies of that Regiment. And no Officer shall present any Servants whatsoever, in the Ranks at any
+<pb n="5" facs="tcp:47365:3"/> time whatsoever, upon the Penalty of false Musters.</p>
+            <p n="7">
+               <hi>VII.</hi> That none be allowed upon the Musters that are not present, except in Case of Sickness, or by Per<g ref="char:EOLhyphen"/>mission from Vs, or the Officer in Chief Command<g ref="char:EOLhyphen"/>ing Our respective Troops or Companies, by Writing under Our or their Hands: And the Pass or Licence so granted shall be Entred with you; And if granted by an Officer, is not to exceéd the space of two Months at any one time; And every Officer and Soldier stay<g ref="char:EOLhyphen"/>ing longer then his Pass, shall be Respited; And such Respit not taken off without an Order under Our Sign Manual. And Our Pleasure is, That no more then five Gentlemen of Our Troops of Horse Guards, be allowed in any Case as absent by Leave at any one time; And no more then two Soldiers in any other Troop or Company in Our Service: And if any Officer or Soldier shall be absent by Reason of Sick<g ref="char:EOLhyphen"/>ness, you shall not allow them upon the Musters without a Certificate thereof from the Major or Ayd-Major, and Chirurgeon of the Troops and Regi<g ref="char:EOLhyphen"/>ments or Garrison to which the said Officer or Sol<g ref="char:EOLhyphen"/>dier does belong; (and for Our Non-Regimented Companies, from the Commander in Chief upon the Place) And if the said Major, Ayd-Major or Chirur<g ref="char:EOLhyphen"/>geon shall give a false Certificate, or any other then of their own Knowledge, the Person so Certifying shall be Cashiered.</p>
+            <p n="8">
+               <hi>VIII.</hi> That none presume to offer themselves to be Mustered by a Counterfeit Name or Sirname; In which Case you are to make Complaint thereof unto Vs, that the Officer privy thereunto may be Cashiered. And all such as do appear in the Ranks by a Coun<g ref="char:EOLhyphen"/>terfeit Name or otherwise to deceive you, shall be im<g ref="char:EOLhyphen"/>mediately Whipt by Order of the Officer in Chief up<g ref="char:EOLhyphen"/>on the Place, by such as the said Officer shall appoint; And you are upon Discovery thereof to confiscate to Our use the Coats, Belts, and other Accoutrements of such as shall so present themselves in the Ranks. And We do hereby give you full Power forthwith to sus<g ref="char:EOLhyphen"/>pend such Captains or Officers as shall be privy there<g ref="char:EOLhyphen"/>unto, from their Command and Pay, who are not to be restored without Our Order under Our Sign Ma<g ref="char:EOLhyphen"/>nual.</p>
+            <p n="9">
+               <pb n="6" facs="tcp:47365:4"/>
+               <hi>IX.</hi> That no House-keéper or Inhabitant within any of Our Garrisons be Mustered or continued within Our Pay as Private Soldiers; nor shall any Shop<g ref="char:EOLhyphen"/>keéper be Listed hereafter within Our Guards of Horse or Foot; nor shall you allow upon the Musters any Sargeant, Corporal, or Private Soldier that keéps any Publick House for selling of Drink, or any House of Publick Entertainment.</p>
+            <p n="10">
+               <hi>X.</hi> That no Officer or Soldier be allowed upon the Musters, who does not diligently▪ and constantly at<g ref="char:EOLhyphen"/>tend his Duty; and no Officer shall presume upon Pain of being Cashiered to Muster any others, then such as are able and fit for Service, and who constantly attend their Duty; nor shall any Officer suffer any one to do Duty, or to March for Hire, or otherwise in any Troop or Company that is not Mustered or Listed in the same Regiment, Or take Money to List a Soldier, upon Pain of being Cashiered.</p>
+            <p n="11">
+               <hi>XI.</hi> That no Person be entertained upon the Musters that shall not give a good account of himself, and pro<g ref="char:EOLhyphen"/>duce a Discharge from his last Officer, if he hath for<g ref="char:EOLhyphen"/>merly beén in any Military Service.</p>
+            <p n="12">
+               <hi>XII.</hi> That within the Muster-Rolls of Our Forces▪ particular notice be taken of every new Soldier enter<g ref="char:EOLhyphen"/>tained that Muster, and of all such as are dead, dis<g ref="char:EOLhyphen"/>charged, or run away since the preceding Muster; Of all which Muster-Rolls an Abstract is to be presented unto Vs as soon as may be before the succeéding Mu<g ref="char:EOLhyphen"/>ster.</p>
+            <p n="13">
+               <hi>XIII.</hi> That all Soldiers taken Prisoners, shall upon due Proof be allowed upon the Musters during their Imprisonment.</p>
+            <p n="14">
+               <hi>XIV.</hi> That if a Lieutenant, Cornet or Ensign shall discover and prove that his Captain hath made a false Muster, he shall receive such Reward as he shall ap<g ref="char:EOLhyphen"/>pear unto Vs to deserve, and the Captain be Cashiered; And a Sargeant or Corporal discovering and making Proof of false Musters, shall have Fifty pounds; and any other Person Fourty pounds, and have his Dis<g ref="char:EOLhyphen"/>charge, if being a Soldier he shall desire it; Provided such Impeachment or Discovery of false Musters be made upon the Place, or within Two Months from
+<pb n="7" facs="tcp:47365:4"/> the time of the false Muster; But if the Accusation be found false, such Officer shall be Cashiered, and such Soldier punished in such manner as a Court Mar<g ref="char:EOLhyphen"/>tial shall direct.</p>
+            <p n="15">
+               <hi>XV.</hi> And whereas We have beén Informed of great Abuses committed in the Musters upon the Account of Rewards and Gratifications received by several of the Deputy Commissaries; And having for the Prevention thereof, and the better enabling them to perform their respective Duties, encreased their Salaries and Allow<g ref="char:EOLhyphen"/>ances, We do hereby Declare Our Will and Pleasure, That if any Muster-Masters do hereafter demand or receive any Money or Gratuity whatsoever from any Officer of Our Forces, at or before the Closing of the Rolls, or upon the Account of any Musters, the Offi<g ref="char:EOLhyphen"/>cers giving, and the Muster-Masters demanding or receiving such Gratuity, shall be immediately Cashiered.</p>
+            <p>Lastly, Our Will and Pleasure is, That all for<g ref="char:EOLhyphen"/>mer Rules and Orders for Regulation of the Musters do henceforth become void; And all Officers and Sol<g ref="char:EOLhyphen"/>diers not duly observing these Our Orders and In<g ref="char:EOLhyphen"/>structions, and every of them respectively, shall be se<g ref="char:EOLhyphen"/>verely punished according to the Quality of the Offence; And the Officers in Chief of Our several Regiments, Troops and Companies are forthwith to cause the same to be Read and Published at the Head of each Regiment, Troop and Company, that no Person may pretend Ig<g ref="char:EOLhyphen"/>norance thereof.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi>
+                  <date>this Twenty first Day of <hi>February</hi> 1686/7 in the Third Year of Our Reign.</date>
+               </dateline>
+               <signed>By His Majesties Command, <hi>William Blathwayt.</hi>
+               </signed>
+            </closer>
+            <trailer>To Our Trusty and Wellbeloved <hi>Henry Howard</hi> Esq; Our Commissary Ge<g ref="char:EOLhyphen"/>neral of the Musters, his Deputy or Deputies, and all others whom it may Concern.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill, Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings most Excellent Majesty. 1686/7.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
